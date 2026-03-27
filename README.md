@@ -1,8 +1,8 @@
 # 💫 About Me:
 I am an Information Technology student with a strong interest in Artificial Intelligence and Machine Learning. 
 I enjoy learning how AI can be applied to real-world applications such as chatbots, data analysis, and intelligent systems. 
-I have experience working with Python and building AI-related features.
-I am currently seeking an internship opportunity to gain hands-on experience in AI and ML Engineering.
+I have experience working with Python, integrating APIs and building AI-related features.
+I am currently seeking an internship opportunity to gain hands-on experience in AI Engineering.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/devin1016) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devin_p.h) 
